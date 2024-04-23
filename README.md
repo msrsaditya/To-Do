@@ -4,7 +4,7 @@ This is a simple Minimalist No-Nonsense web-based To-Do List application built u
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](https://github.com/msrsaditya/To-Do/blob/main/screenshot.png)
 
 ## Features
 
