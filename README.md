@@ -2,6 +2,10 @@
 
 This is a simple Minimalist No-Nonsense web-based To-Do List application built using HTML, CSS, and JavaScript.
 
+## Screenshots
+
+![Screenshot 1](path/to/screenshot1.png)
+
 ## Features
 
 - Add, edit, and remove tasks
