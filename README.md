@@ -1,6 +1,6 @@
 # To-Do List
 
-This is a simple Minimalist No-Nonsense web-based To-Do List application built using HTML, CSS, and JavaScript.
+This is a Simple Minimalist No-Nonsense Web-Based To-Do List Application Built Using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
