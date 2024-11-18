@@ -59,15 +59,15 @@ button {
     padding: 10px 20px;
     border: none;
     border-radius: 20px;
-    background-color: #007bff;
-    color: #fff;
+    background-color: #0056b3; /* Updated darker blue for better contrast */
+    color: #ffffff;
     font-size: 16px;
     cursor: pointer;
     margin-right: 10px;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #004494; /* Slightly darker hover color for contrast */
 }
 
 ul {
