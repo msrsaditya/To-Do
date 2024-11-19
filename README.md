@@ -6,6 +6,10 @@ This is a Simple Minimalist No-Nonsense Web-Based To-Do List Application Built U
 
 ![Screenshot 1](https://github.com/msrsaditya/To-Do/blob/main/screenshot.png)
 
+## Too Minimal and Too Fast
+
+![Screenshot 2](https://github.com/msrsaditya/To-Do/blob/main/Screenshot%201.png)
+
 ## Features
 
 - Add, edit, and remove tasks
