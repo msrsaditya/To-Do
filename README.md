@@ -2,11 +2,11 @@
 
 This is a Simple Minimalist No-Nonsense Web-Based To-Do List Application Built Using HTML, CSS, and JavaScript.
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 1](https://github.com/msrsaditya/To-Do/blob/main/screenshot.png)
 
-## Too Minimal and Too Fast
+## This Website is Way Too Fast!!!
 
 ![Screenshot 2](https://github.com/msrsaditya/To-Do/blob/main/Screenshot%201.png)
 
